@@ -24,5 +24,5 @@ module.exports = Category;
 
 Concept
 
-relationships between the "Category", "Subcategory", and "Product" collections in your MongoDB database. A Category can have multiple Subcategories, a Subcategory can have multiple Products, and a Product can belong to multiple Subcategories.
+relationships between the "Category", "Subcategory", and "Product" collections in the MongoDB database. A Category can have multiple Subcategories, a Subcategory can have multiple Products, and a Product can belong to multiple Subcategories.
 */
